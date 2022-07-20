@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: Traveling with the Zs
 subtitle: "Come travel with us."
-email:john.zumsteg@gmail.com
+email: john.zumsteg@gmail.com
 name: John Zumsteg
 description: >
  A travel log of our adventures and mis-adventures while on the road.
@@ -78,25 +78,13 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-<<<<<<< HEAD
-
   - name: GitHub
     icon: github
     username: bencentra
-=======
-  - name: GitHub
-    icon: github
-    username: jzumsteg
->>>>>>> c37543639fe937ccea63d536db4d46f2708d5569
     url: https://github.com/jzumsteg
     desc: Fork me on GitHub
     share: false
 
-<<<<<<< HEAD
-
-=======
- 
->>>>>>> c37543639fe937ccea63d536db4d46f2708d5569
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
