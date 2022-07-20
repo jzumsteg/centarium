@@ -11,10 +11,10 @@ exclude:
 # Site settings
 title: Traveling with the Zs
 subtitle: "Come travel with us."
-email: blcentra@gmail.com
-name: Ben Centra
+email:john.zumsteg@gmail.com
+name: John Zumsteg
 description: >
-  A travel log of our adventures and mis-adventures while on the road.
+ A travel log of our adventures and mis-adventures while on the road.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
