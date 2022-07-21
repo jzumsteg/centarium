@@ -22,7 +22,7 @@ description: >
 
 # next two lines for github upload sync
 url: 'https://jzumsteg.github.com' # the base hostname & protocol for your site
-baseurl: '/centrarium'
+baseurl: '/centarium'
 
 # next two lines for local development
 
