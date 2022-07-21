@@ -19,9 +19,15 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/centarium" # the subpath of your site, e.g. /blog/
+
+# next two lines for github upload sync
 url: 'https://jzumsteg.github.com' # the base hostname & protocol for your site
 baseurl: '/centarium'
 
+# next two lines for local development
+
+url: '' # the base hostname & protocol for your site
+baseurl: ''
 
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
