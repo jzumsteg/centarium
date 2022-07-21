@@ -18,7 +18,7 @@ I think both regular readers of this blog know that our daughter-in-law, Annie, 
 
 <figure>
 	<img <img src="{{ "/assets/images/2022/01/image-3.jpg" | prepend: site.baseurl | prepend: site.url}}" alt="Fambly" />
-	<figcaption><em>The whole fambly together again! At a coffee shop in Kirkwood. It was clear and cold that day.</em></figcaption>
+	<figcaption><em>Look! The whole fambly together again! At a coffee shop in Kirkwood. It was clear and cold that day.</em></figcaption>
 </figure>
 
 
