@@ -5,6 +5,7 @@ date: Sun, 02 Jun 2013 18:58:16 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 Yesterday we went into Paris for the first time this trip. We delayed that foray because the weather has been so bad (it's official: the worst May since the 1880's) but yesterday started what is forecast to be a ten-day streak of good weather, so off we went with our friends Mary &amp; Gilles.
 
