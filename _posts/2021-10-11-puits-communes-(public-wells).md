@@ -5,6 +5,7 @@ date: Mon, 11 Oct 2021 14:40:43 +0000
 category: Activities
 math: true
 mermaid: true
+layout: post
 ---
 One day while walking down our street, we saw this in a wall near our cottage:
 

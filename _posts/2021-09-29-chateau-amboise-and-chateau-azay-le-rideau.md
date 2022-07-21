@@ -5,6 +5,7 @@ date: Wed, 29 Sep 2021 16:01:14 +0000
 category: [Rambles, France, Places]
 math: true
 mermaid: true
+layout: post
 ---
 After seeing Chateau Blois and visiting the town, we took a day-trip to go to Chateau Amboise and then stopped at Chateau Azay-le-Rideau on the day we drove back to home base at Bois-le-Roi. This was the second time we'd visited Chateau Amboise and the fourth(!) time at Azay-le-Rideau. You can get some more info about these two chateaux by clicking on: <a href="http://zumsteg.us/?p=4833">2018: Three Loire Chateaux</a>.
 <h2 style="font-family: verdana;">Chateau Amboise</h2>

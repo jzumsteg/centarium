@@ -5,6 +5,7 @@ date: Sun, 10 Oct 2021 15:46:44 +0000
 category: Paris
 math: true
 mermaid: true
+layout: post
 ---
 This week we spent four days in Paris, certainly our last visit to the city on this trip. We've been coming to Paris for many years - our first time in the city was in 1983 when we did two day-trips while we were staying with Mary and Gilles in Chartrettes. Our first stay in the city, probably four or five days, was ten years later. Since then we've spent time here on probably ten or twelve vacations. We loved this city from the start and have only grown to love it more each visit. So it was hard to walk back to the flat and then the train station knowing it will be a while before we're back.
 

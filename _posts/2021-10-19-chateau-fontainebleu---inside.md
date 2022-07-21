@@ -5,6 +5,7 @@ date: Tue, 19 Oct 2021 20:52:59 +0000
 category: Places
 math: true
 mermaid: true
+layout: post
 ---
 
 [Sancerre]({% post_url 2021-08-08-sancerre %})
