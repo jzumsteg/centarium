@@ -25,9 +25,8 @@ url: 'https://jzumsteg.github.com' # the base hostname & protocol for your site
 baseurl: '/centarium'
 
 # next two lines for local development
-
-url: '' # the base hostname & protocol for your site
-baseurl: ''
+#url: '' # the base hostname & protocol for your site
+#baseurl: ''
 
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
